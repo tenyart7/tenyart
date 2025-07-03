@@ -12,3 +12,4 @@ This is a personal resume website for **Tsuquindaro Enyart**, a Data Science stu
 ## How to view
 
 Visit the deployed site at:
+https://tenyart7.github.io/tenyart/
